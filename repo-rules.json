@@ -1,0 +1,48 @@
+{
+  "version": "1.0",
+  "repository_owner": "https://github.com/Thrumanshow",
+  "rules": [
+    {
+      "id": "collaboration-policy",
+      "description": "Solo Thrumanshow tiene acceso completo al branch main. Colaboradores externos deben hacer Pull Request.",
+      "type": "access-control",
+      "branch": "main",
+      "collaborators": {
+        "external": {
+          "permission": "read",
+          "action": "must-submit-pull-request"
+        },
+        "owner": {
+          "username": "Thrumanshow",
+          "permission": "admin"
+        }
+      }
+    },
+    {
+      "id": "contribution-policy",
+      "description": "Usuarios externos pueden contribuir desde los repos aprobados por Thrumanshow.",
+      "type": "contribution-flow",
+      "access": {
+        "users": "external",
+        "repos": "approved-by-owner",
+        "method": "public-fork-and-pr"
+      }
+    },
+    {
+      "id": "bot-recognition",
+      "description": "Reconocimiento automático a bots colaboradores oficiales del proyecto.",
+      "type": "bot-acknowledgment",
+      "bots": [
+        {
+          "name": "HormigasAIS-xoxo_bot",
+          "approved": true
+        },
+        {
+          "name": "Nexus-alerts_bot",
+          "approved": true
+        }
+      ],
+      "note": "Se reconoce la ayuda del copiloto de HormigasAIS Microsoft."
+    }
+  ]
+}
