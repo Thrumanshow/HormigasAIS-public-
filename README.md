@@ -23,3 +23,9 @@ Para convertir el archivo a `.csv`, ejecuta el siguiente script:
 
 ```bash
 python scripts/convert_excel_to_csv.py
+
+---
+
+### 📝 Licencia
+
+Este repositorio y sus datos se publican bajo la licencia [CC0 1.0 Universal (Public Domain Dedication)](https://creativecommons.org/publicdomain/zero/1.0/).
