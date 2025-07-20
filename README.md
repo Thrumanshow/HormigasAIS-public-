@@ -1,6 +1,11 @@
 # HormigasAIS Open Lab
 
-Este repositorio forma parte del ecosistema de automatización e inteligencia colaborativa de HormigasAIS. Aquí exploramos datos, herramientas y experimentos con enfoque en IA, marketing digital y visualización.
+[![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+Este repositorio forma parte del ecosistema de automatización e inteligencia colaborativa de HormigasAIS.  
+Aquí exploramos datos, herramientas y experimentos con enfoque en **IA**, **marketing digital** y **visualización**.
+
+---
 
 ## 🔍 Exploraciones actuales
 
@@ -12,20 +17,17 @@ Este repositorio forma parte del ecosistema de automatización e inteligencia co
 
 ## 📂 Datos disponibles
 
-Este repositorio incluye un archivo de dominios utilizados para tráfico de correo electrónico entrante, junto con el nivel de cifrado STARTTLS detectado.
+Este repositorio incluye un archivo de dominios utilizados para tráfico de correo electrónico entrante,  
+junto con el nivel de cifrado STARTTLS detectado.
 
-- `google-starttls-domains.xlsx`: archivo original en Excel.
+- `google-starttls-domains.xlsx`: archivo original en Excel.  
 - `google-starttls-domains.csv`: versión exportada en CSV (puede generarse con el script en `/scripts/`).
-
-### 🔄 Conversión de Excel a CSV
-
-Para convertir el archivo a `.csv`, ejecuta el siguiente script:
-
-```bash
-python scripts/convert_excel_to_csv.py
 
 ---
 
-### 📝 Licencia
+### 🔄 Conversión de Excel a CSV
 
-Este repositorio y sus datos se publican bajo la licencia [CC0 1.0 Universal (Public Domain Dedication)](https://creativecommons.org/publicdomain/zero/1.0/).
+Para convertir el archivo `.xlsx` a `.csv`, ejecuta el siguiente script:
+
+```bash
+python scripts/convert_excel_to_csv.py
