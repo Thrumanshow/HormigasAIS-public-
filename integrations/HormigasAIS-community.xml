@@ -1,1 +1,29 @@
-
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet href="https://www.blogger.com/styles/atom.css" type="text/css"?>
+<feed xmlns='http://www.w3.org/2005/Atom' xmlns:openSearch='http://a9.com/-/spec/opensearchrss/1.0/'
+      xmlns:gd='http://schemas.google.com/g/2005' xmlns:thr='http://purl.org/syndication/thread/1.0'
+      xmlns:georss='http://www.georss.org/georss'>
+  <id>tag:blogger.com,1999:blog-1278902940471693594.archive</id>
+  <updated>2025-03-13T21:30:26.345-07:00</updated>
+  <title type='text'>HormigasAIS-community</title>
+  <link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml' href='https://www.blogger.com/feeds/1278902940471693594/archive'/>
+  <link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/1278902940471693594/archive'/>
+  <link rel='http://schemas.google.com/g/2005#post' type='application/atom+xml' href='https://www.blogger.com/feeds/1278902940471693594/archive'/>
+  <link rel='alternate' type='text/html' href='http://hormigasais-community.blogspot.com/'/>
+  <author>
+    <name>HormigasAIS </name>
+    <uri>https://www.blogger.com/profile/07860854364939166246</uri>
+    <email>noreply@blogger.com</email>
+    <gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='32' height='32'
+              src='//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOsoeXbWm_5uSC_5W1DWCFPCbLwq9xD3RacXLHTYyolGy6zebX3umxnI7cvqBQRIryyVK298b2rstxH64x4TLLAHA8YqnWOp6sysZjnSDzle5q1VFu4Ayam-aoGH7g5uw3TLlLJz2HFdpPy6RCOrunmlm8xau1JvKMBpYUWz0Ydr1Xhts/s220/blogger.googleusercontent.com.png'/>
+  </author>
+  <generator version='7.00' uri='https://www.blogger.com'>Blogger</generator>
+  <entry>
+    <id>tag:blogger.com,1999:blog-1278902940471693594.layout</id>
+    <published>2025-03-13T21:23:46.281-07:00</published>
+    <updated>2025-03-13T21:30:26.345-07:00</updated>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#template'/>
+    <title type='text'>Template: HormigasAIS-community</title>
+    <content type='text'>&lt;?xml version="1.0" encoding="UTF-8" ?&gt;</content>
+  </entry>
+</feed>
