@@ -1,38 +1,25 @@
-# 🐜 HormigasAIS | Repositorio de Dominio Público
+# HormigasAIS Open Lab
 
-Este repositorio es una extensión abierta del pensamiento colectivo que representa **HormigasAIS**: un ecosistema de colaboración digital, inteligencia distribuida y automatización consciente.
+Este repositorio forma parte del ecosistema de automatización e inteligencia colaborativa de HormigasAIS. Aquí exploramos datos, herramientas y experimentos con enfoque en IA, marketing digital y visualización.
 
-Todo el contenido aquí compartido ha sido liberado al **dominio público** bajo la licencia [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/).
+## 🔍 Exploraciones actuales
 
----
-
-## 📍 Enlace principal
-
-Repositorio enlazado desde la página principal del proyecto en Wikipedia:  
-🔗 [https://en.wikipedia.org/wiki/User:Thrumanshow](https://en.wikipedia.org/wiki/User:Thrumanshow)
+- Automatización con n8n  
+- Análisis de comportamiento en email  
+- Herramientas SEO e integraciones de datos  
 
 ---
 
-## 🎯 Propósito
+## 📂 Datos disponibles
 
-Difundir ideas, estructuras, fragmentos de código y reflexiones que forman parte del laboratorio abierto **HormigasAIS**.  
-Un campo libre para la intuición, la documentación y el aprendizaje.
+Este repositorio incluye un archivo de dominios utilizados para tráfico de correo electrónico entrante, junto con el nivel de cifrado STARTTLS detectado.
 
----
+- `google-starttls-domains.xlsx`: archivo original en Excel.
+- `google-starttls-domains.csv`: versión exportada en CSV (puede generarse con el script en `/scripts/`).
 
-## ⚖️ Licencia
+### 🔄 Conversión de Excel a CSV
 
-> Este proyecto se encuentra bajo la dedicación al dominio público:  
-> **[CC0 1.0 Universal – No Rights Reserved](https://creativecommons.org/publicdomain/zero/1.0/)**  
-> Puedes copiar, modificar, distribuir y usar cualquier parte del contenido sin restricciones.
+Para convertir el archivo a `.csv`, ejecuta el siguiente script:
 
----
-
-## 🧭 Frase guía
-
-> **“La mente curiosa y la colaboración humana.”**  
-> Una señal de código abierto desde el hormiguero.
-
----
-
-© HormigasAIS – construido por y para exploradores digitales.
+```bash
+python scripts/convert_excel_to_csv.py
