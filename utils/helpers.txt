@@ -1,0 +1,5 @@
+Herramientas y enlaces útiles:
+
+- Generador de licencia CC0 → https://creativecommons.org/choose/zero/
+- Editor online de Markdown → https://stackedit.io/
+- Repositorio base de Wikipedia → https://en.wikipedia.org/wiki/User:Thrumanshow
