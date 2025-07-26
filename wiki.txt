@@ -1,0 +1,31 @@
+{{User sandbox}}
+{{Draft article}}
+
+<!-- Plantilla de protección preventiva -->
+{{Please do not delete|1=This draft is part of an AI-documented open innovation project and will undergo collaborative review. The content is verifiable, non-promotional, and within Wikipedia's scope. See talk page for background.}}
+
+<!-- Aviso a bibliotecarios preventivo en caso de revisión temprana -->
+{{Afd notice|type=keep|reason=This is a pre-reviewed draft version of a digital ecosystem project. Author is committed to improving references and formatting based on Wikipedia guidelines.}}
+
+'''HormigasAIS''' is an open digital ecosystem founded by Salvadoran creator '''Cristhiam Quiñonez'''. It focuses on collaborative intelligence, artificial intelligence (AI), marketing automation, and open-source development.
+
+== Overview ==
+HormigasAIS started as a personal blog and evolved into a multidisciplinary lab combining SEO tools, community insights, and AI-powered experiments. The project's mission is to make automation accessible and ethical for individuals and teams in Latin America and beyond.
+
+== Components ==
+* **Open Lab** – GitHub repository with scraping tools, SEO analyzers, and automation flows using [n8n](https://n8n.io/).
+* **Newsletter** – Biweekly publication called *HormigasAIS-Community* sharing insights on automation, job trends, and digital workflows.
+* **Virtual Character** – An AI-driven character named '''XOXO''' symbolizes the blend of storytelling, development, and data science within the project.
+
+== Philosophy ==
+The project embraces the mantra: ''"La mente curiosa y la colaboración humana"'' (A curious mind and human collaboration), aiming to demystify AI through cultural and community lenses.
+
+== External links ==
+* [https://github.com/Thrumanshow/HormigasAIS GitHub - HormigasAIS]
+* [https://www.linkedin.com/company/hormigasais/ LinkedIn - HormigasAIS]
+* [https://hormigasais.substack.com HormigasAIS-Community Newsletter]
+
+[[Category:Artificial intelligence organizations]]
+[[Category:Open-source projects]]
+[[Category:Digital marketing]]
+[[Category:Technology in El Salvador]]
